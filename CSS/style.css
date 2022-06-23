@@ -342,7 +342,8 @@ hr{
     color: #fab4c4;
 }
 .email-id{
-color= #000000;
+    text-decoration-color: #000000;
+}
 }
 
 /*--social-icons--*/
